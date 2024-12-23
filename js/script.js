@@ -133,7 +133,7 @@ var images = [
     //     'assets/sprites/modem-5.png',
     //     'assets/sprites/msg_warning-0.png',
     //     'assets/sprites/help_question_mark-0.png',
-    '/assets/sprites/star.png',
+    'assets/sprites/star.png',
 ];
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -474,7 +474,7 @@ function closeSplash() {
 // desktop image carousel
 // Array of image URLs for background images
 const backgroundImages = [
-    '/assets/wallpapers/clouds.jpg',
+    'assets/wallpapers/clouds.jpg',
 ];
 
 // Function to select a random image URL from the array
